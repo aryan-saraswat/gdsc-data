@@ -3,4 +3,7 @@
 __pycache__
 
 DeutscheBahn/config.json
+DeutscheBahn/journey_ids.json
+DeutscheBahn/journey_details.json
+
 FlightData/config.json
