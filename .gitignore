@@ -1,4 +1,6 @@
 *.idea
+*.py[cod]
+__pycache__
 
 DeutscheBahn/config.json
 FlightData/config.json
